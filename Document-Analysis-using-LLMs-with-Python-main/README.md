@@ -83,15 +83,6 @@ Install with:
 pip install transformers torch numpy pandas pymupdf
 ```
 
----
-
-## About the Author
-This project was developed by **Mauzum Shamil**, a Data Scientist passionate about AI, NLP, and automation. Connect with me:
-
-- **GitHub**: [github.com/mauzumshamil](https://github.com/mauzumshamil)
-- **LinkedIn**: [linkedin.com/in/mauzum-shamil](http://linkedin.com/in/mauzum-shamil)
-- **Portfolio**: [linktr.ee/mauzum_shamil](https://linktr.ee/mauzum_shamil)
-
 For inquiries or collaboration, feel free to reach out!
 
 ---
