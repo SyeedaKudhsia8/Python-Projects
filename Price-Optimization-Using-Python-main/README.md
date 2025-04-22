@@ -32,9 +32,9 @@ To run the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/price-optimization.git
+   git clone https://github.com/syeedakudhsia8/price-optimization.git
    cd price-optimization
    
 Contact
-If you have any questions or suggestions, feel free to reach out to me at [https://linktr.ee/mauzum_shamil].
+If you have any questions or suggestions, feel free to reach out to me at [https://linktr.ee/syeedafatima].
 
